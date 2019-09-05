@@ -10,7 +10,7 @@ metadata:
     flux.weave.works/locked_msg: '"Performing risky op"'
     flux.weave.works/locked_user: Ilya Dmitrichenko <ilya@weave.works>
 spec:
-  replicas: 2
+  replicas: 4
   selector:
     matchLabels:
       app: podinfo
