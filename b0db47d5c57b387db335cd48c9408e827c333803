@@ -1,0 +1,1 @@
+{"jobID":"7b5e22f6-b1d5-39e8-7b69-f154748c17ad","spec":{"type":"policy","cause":{"Message":"","User":"Steve G \u003cweaveworks@steve-garrett.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
